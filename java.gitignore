@@ -1,0 +1,11 @@
+*.sw*
+build/
+libs/
+tmp/
+.DS_Store
+.classpath
+.project
+.settings/
+bin/
+build.xml.old
+*.jar
